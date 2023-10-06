@@ -1,0 +1,264 @@
+.top{
+    display: inline-block;
+    
+}
+.title,.na{
+     
+    display: inline-block;
+}
+.let{
+    padding: 1px 1px;
+    margin-left: 150px;
+}
+.na{
+    margin: 30px;
+    cursor: pointer;
+}
+.title{
+    margin-right: 60px;
+    margin-left: 20px;
+}
+.grey{
+    background-color: rgb(105, 105, 105);
+    color: white;
+}
+.let{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(105,105,105);
+    color: white;
+    border-style: solid;
+    border-color: rgb(133, 131, 131);
+    cursor: pointer;
+
+}
+.im{
+    margin-left: 40px;
+    display: inline;
+}
+.con{
+    display: inline-block;
+    margin-bottom: 200px;
+}
+.text{
+    background-color: white;
+    padding: 16px;
+}
+.lets{
+    background-color: rgb(85, 165, 85);
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.own{
+    margin-left: 420px;
+}
+.spa{
+    margin-left: 90px;
+}
+.count{
+    display: flex;
+}
+.num1{
+    margin-left: 290px;
+}
+ .num{
+    margin-left: 160px;
+ }
+ .value{
+    display: flex;
+ }
+ .nu1{
+    margin-left: 275px;
+    margin-top: 0px;
+ }
+ .nu{
+    margin-left: 110px;
+    margin-top: 0px;
+ }
+ .i1{
+    margin-left: 250px;
+ }
+.qoute{
+    margin-left: 470px;
+}
+.sp{
+    margin-left: 20px;
+}
+.c,.cl{
+    display: inline-block;
+}
+.clg{
+    display: block;
+}
+.igs{
+    display: inline-block;
+}
+.c{
+    margin-left: 260px;
+}
+.cl{
+    margin-left: 80px;
+}
+.cla{
+margin-left: 200px;
+}
+.igs{
+margin-left: 80px;
+}
+.igst{
+    margin-left: 260px;
+}
+.found{
+    margin-left: 70px;
+}
+.igste{
+    margin-left: 260px;
+}
+.fou{
+    margin-left: 155px;
+}
+.foun{
+    margin-left: 155px;
+}
+.founders{
+    display: flex;
+}
+
+.fonts{
+    display: flex;
+}
+.fonts{
+    font-size:x-small;
+     
+}
+.font1{
+    margin-left: 260px;
+    color: rgb(129, 124, 124);
+
+
+}
+.font2{
+    margin-left: 85px;
+    color: rgb(129, 124, 124);
+
+}
+.font3{
+    margin-left: 80px;
+    color: rgb(129, 124, 124);
+}
+.see{
+    margin-left: 590px;
+}
+.end{
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+.ones,.twos,.threes,.fours,.fives{
+    display: flex;
+}
+.one1,.two1,.three1,.four1,.five1{
+    margin-left: 130px;
+}
+.one2,.two2,.three2,.four2,.five2{
+    margin-left: 130px;
+}
+.one3,.two1,.three1,.four1,.five1{
+    margin-left: 130px;
+}
+.one4,.two1,.three1,.four1,.five1{
+    margin-left: 130px;
+}
+.one5,.two1,.three1,.four1,.five1{
+    margin-left: 130px;
+}
+.two2{
+    margin-left: 100px;
+}
+.two3{
+    margin-left: 100px;
+}
+.two4{
+    margin-left: 90px;
+}
+.two5{
+    margin-left: 130px;
+}
+.three2{
+    margin-left: 118px;
+}
+.three3{
+    margin-left: 102px;
+}
+.three4{
+    margin-left: 100px;
+}
+.three5{
+    margin-left: 158px;
+}
+.four2{
+    margin-left: 166px;
+}
+.four3{
+    margin-left: 82px;
+}
+.four4{
+    margin-left: 147px;
+}
+.four5{
+margin-left: 133px;
+}
+.five2{
+    margin-left: 178px;
+}
+.five3{
+    margin-left: 81px;
+}
+.five4{
+    margin-left: 103px;
+}
+.five5{
+    margin-left: 148px;
+}
+.ones{
+    font-weight: 500;
+     cursor: pointer;
+}
+.twos,.threes,.fours,.fives{
+    font-weight:200;
+    color: rgb(133, 128, 128);
+    cursor: pointer;
+}
+.key{
+    color: rgb(129, 124, 124);
+}
+.num1,.num{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.nu1,.nu{
+    color: rgb(129, 124, 124);
+
+}
+.logo{
+    border-radius: 50px;
+    margin: 5px;
+}
+.imgsa,.con{
+    display: inline-block;
+}
+.con{
+    margin-left: 180px;
+    text-align: top;
+}
+.im{
+    margin-top: 80px;
+    margin-left: 180px;
+}
